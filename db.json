@@ -1,18 +1,4 @@
 {
-  "categorys": [
-    {
-      "id": 1,
-      "title": "Áo"
-    },
-    {
-      "id": 2,
-      "title": "Quần"
-    },
-    {
-      "id": 3,
-      "title": "Váy"
-    }
-  ],
   "products": [
   {
     id: 1,
