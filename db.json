@@ -1,0 +1,15 @@
+[
+  {
+    id: 1,
+    categoryId: 1,
+    name: "Áo phông",
+    image: "",
+    size: "M",
+    color: "White",
+    gender: "FeMale",
+    quantity: 33,
+    price: 300000,
+    create_at: "12/11/2022",
+    userId: 1
+  }
+]
