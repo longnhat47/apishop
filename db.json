@@ -1,70 +1,13 @@
 {
   "categorys": [
-    {
-      "id": 1,
-      "title": "Áo"
-    },
-    {
-      "id": 2,
-      "title": "Quần"
-    },
-    {
-      "id": 3,
-      "title": "Váy"
-    }
+    { "id": 1, "name": "Áo" },
+    { "id": 2, "name": "Quần" },
+    { "id": 3, "name": "Váy" }
   ],
   "products": [
-  {
-    id: 1,
-    categoryId: 1,
-    name: "Áo phông",
-    image: "",
-    size: "M",
-    color: "White",
-    gender: "FeMale",
-    quantity: 33,
-    price: 300000,
-    create_at: "12/11/2022",
-    userId: 1
-  },
-  {
-    id: 2,
-    categoryId: 1,
-    name: "Áo phông 2",
-    image: "",
-    size: "S",
-    color: "White",
-    gender: "FeMale",
-    quantity: 33,
-    price: 300000,
-    create_at: "12/11/2022",
-    userId: 1
-  },
-  {
-    id: 3,
-    categoryId: 2,
-    name: "Quần jean",
-    image: "",
-    size: "L",
-    color: "White",
-    gender: "Male",
-    quantity: 33,
-    price: 500000,
-    create_at: "12/11/2022",
-    userId: 1
-  },
-  {
-    id: 4,
-    categoryId: 3,
-    name: "Váy",
-    image: "",
-    size: "L",
-    color: "White",
-    gender: "FeMale",
-    quantity: 33,
-    price: 200000,
-    create_at: "12/11/2022",
-    userId: 1
-  }
+    { "id": 1, "category": 1, "name": "Áo phông", "image": "", "size": "M", "color": "Trắng", "gender": "Male", "price": 300000, "quantity": 33, "create_at": "12/12/2022", "user_id": 1 },
+    { "id": 2, "category": 2, "name": "Quần jean", "image": "", "size": "32", "color": "Xanh", "gender": "Male", "price": 300000, "quantity": 33, "create_at": "12/12/2022", "user_id": 1 },
+    { "id": 3, "category": 1, "name": "Áo 3 lỗ", "image": "", "size": "M", "color": "Trắng", "gender": "Male", "price": 300000, "quantity": 33, "create_at": "12/12/2022", "user_id": 1 },
+    { "id": 4, "category": 3, "name": "Váy", "image": "", "size": "M", "color": "Trắng", "gender": "Male", "price": 300000, "quantity": 33, "create_at": "12/12/2022", "user_id": 1 }
   ]
 }
